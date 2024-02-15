@@ -1,5 +1,7 @@
 Laravel Project
-1)Setting Up the Database
+1)update project-composer update
+
+2)Setting Up the Database
 Create a database named laravel.
 Run php artisan migrate to migrate the database schema.
 
